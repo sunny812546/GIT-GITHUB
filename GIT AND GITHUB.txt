@@ -1,0 +1,42 @@
+-git status //for status//status of git dash
+-git init //for initialize 
+-git add .  //for all file into stage
+-git commit -m "version1" //for rep
+-git log //for changes by users
+-git config --global user.name " "
+-git config --global user.email " "
+
+
+-setup "SSH"(5)
+-git push -u origin master(already exists)
+
+-git diff file.extension //difference
+-git diff --staged file.extension // after add show diff
+-git reset util.txt //
+-git checkout . //back stages
+
+-git pull //if anyone change in github remote access
+-git add -A/./-u
+
+//cloning git
+-ls -la
+-git clone http.....
+-git clone http . //without folder
+ 
+//ignore  files
+-touch .gitignore
+-notepade .gitignore//.txt,*.py
+
+//make new branch
+-git branch//show the branch
+-git branch nameofBranch
+-git checkout nameofbranch//switch the branch into nameofBranch
+-git merge nameofBranch//merge into master branch
+-git push -u origin master
+
+//deleting branch
+-git branch -d nameofBranch//deleting
+-git push origin --delete nameofBranch//on server
+...........Fork And Pull requests...........
+
+
