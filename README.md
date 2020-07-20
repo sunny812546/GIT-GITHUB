@@ -1,3 +1,6 @@
+#Git Ignore files
+create .gitignore
+ -node_modules
 # GIT_CONFIGURATION
 -git config --global user.name "sunny812546"
 -git config --global user.email sun812546@gmail.com
