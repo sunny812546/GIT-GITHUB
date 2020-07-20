@@ -1,4 +1,4 @@
-#Git Ignore files
+# Git Ignore files
 create .gitignore
  -node_modules
 # GIT_CONFIGURATION
