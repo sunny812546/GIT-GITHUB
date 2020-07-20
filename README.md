@@ -1,3 +1,7 @@
+# GIT_CONFIGURATION
+-git config --global user.name "sunny812546"
+-git config --global user.email sun812546@gmail.com
+-git config --list
 # GIT-GITHUB Simple clone and commit
 -git clone SSH (Pull down code from github)
 -git status (All Status of your actions)
