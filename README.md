@@ -35,3 +35,12 @@
 -git reset HASHCODE OF YOUR COMMIT
 -git reset --hard HASHCODE
 
+# roll back
+-git log --oneline
+-git checkout 900jsj index.html
+back to last commit
+-git reset HEAD index.html
+-git status
+-git checkout --index.html
+
+
